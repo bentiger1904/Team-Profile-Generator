@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1708629179535" clover="3.2.0">
+  <project timestamp="1708629179535" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="1" files="4" classes="4"/>
+    <file name="Employee.js" path="C:\Users\ben19\bootcamp\Week12\challenge\Team-Profile-Generator\lib\Employee.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="Engineer.js" path="C:\Users\ben19\bootcamp\Week12\challenge\Team-Profile-Generator\lib\Engineer.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="Intern.js" path="C:\Users\ben19\bootcamp\Week12\challenge\Team-Profile-Generator\lib\Intern.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="Manager.js" path="C:\Users\ben19\bootcamp\Week12\challenge\Team-Profile-Generator\lib\Manager.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+  </project>
+</coverage>
